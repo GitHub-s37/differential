@@ -1,7 +1,7 @@
 package differential;
 
 public class Differential_lib implements Differential_if{
-
+ 
 	private double a, g, h;
 	
 	public Differential_lib(double a, double h) {
